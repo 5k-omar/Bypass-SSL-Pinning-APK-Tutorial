@@ -2,6 +2,8 @@
 
 This repository explains how to bypass SSL pinning in Android apps without root using **App Cloner**. SSL pinning ensures secure communication by verifying SSL certificates. Bypassing it can be useful for security testing, reverse engineering, and debugging.
 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=5k-omar&label=Repo%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+
 ## Requirements
 - Android device or emulator
 
