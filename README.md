@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/b5b5fccb-758a-44a4-b2a9-166cc8f319cc
 - Some apps, like Meta apps, require additional tools like **Frida** and **APK-MITM**.
 
 ## Download Links
-- **App Cloner APK**: [Download here](https://github.com/5k-omar/Bypass-SSL-Pinning-APK-Tutorial/releases/download/1.0/App.Cloner.arm-1.5.32.apk)
+- **App Cloner APK**: [Download here](https://github.com/5k-omar/Bypass-SSL-Pinning-APK-Tutorial/releases/download/1.0/App.Cloner.arm-1.5.32.apk) / [Official Page](https://appcloner.app/)
 - **SslApks-file.settings**: [Download here](https://github.com/5k-omar/Bypass-SSL-Pinning-APK-Tutorial/releases/download/1.0/SslApks-file.settings)
 
 ## Disclaimer
