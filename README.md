@@ -22,5 +22,7 @@ https://github.com/user-attachments/assets/b5b5fccb-758a-44a4-b2a9-166cc8f319cc
 - **App Cloner APK**: [Download here](https://github.com/5k-omar/Bypass-SSL-Pinning-APK-Tutorial/releases/download/1.0/App.Cloner.arm-1.5.32.apk) / [Official Page](https://appcloner.app/)
 - **SslApks-file.settings**: [Download here](https://github.com/5k-omar/Bypass-SSL-Pinning-APK-Tutorial/releases/download/1.0/SslApks-file.settings)
 
+## Discord: https://discord.gg/4ABGdbjzrP
+
 ## Disclaimer
 This repository is intended for educational purposes only. Please use responsibly and ensure compliance with applicable laws and regulations when testing or interacting with third-party applications.
